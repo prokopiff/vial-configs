@@ -1,0 +1,105 @@
+{
+    "version": 1,
+    "uid": -1,
+    "layout": [
+        [
+            [
+                "KC_MUTE",
+                "MO(2)",
+                "KC_PSCR"
+            ],
+            [
+                "MO(1)",
+                "A(KC_A)",
+                "LGUI(KC_SPC)"
+            ],
+            [
+                "KC_MPRV",
+                "KC_MPLY",
+                "KC_MNXT"
+            ]
+        ],
+        [
+            [
+                "RGB_TOG",
+                "BL_STEP",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_UP",
+                "KC_ENT"
+            ],
+            [
+                "KC_LEFT",
+                "KC_DOWN",
+                "KC_RIGHT"
+            ]
+        ],
+        [
+            [
+                "RGB_M_P",
+                "KC_TRNS",
+                "RGB_MOD"
+            ],
+            [
+                "RGB_HUD",
+                "RGB_SAD",
+                "RGB_VAD"
+            ],
+            [
+                "RGB_HUI",
+                "RGB_SAI",
+                "RGB_VAI"
+            ]
+        ],
+        [
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ]
+        ]
+    ],
+    "encoder_layout": [
+        [],
+        [],
+        [],
+        []
+    ],
+    "layout_options": -1,
+    "macro": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "vial_protocol": -1,
+    "via_protocol": 9,
+    "tap_dance": [],
+    "combo": [],
+    "key_override": [],
+    "settings": {}
+}
